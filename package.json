@@ -1,0 +1,17 @@
+{
+  "name": "testcafe-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome performance-smoke.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@platform-os/testcafe-helpers": "^2.3.2",
+    "testcafe": "^3.7.6"
+  }
+}
