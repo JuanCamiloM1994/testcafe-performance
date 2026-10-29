@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "testcafe chrome performance-smoke.test.js"
+    "test": "testcafe chrome:headless performance-smoke.test.js"
   },
   "keywords": [],
   "author": "",
